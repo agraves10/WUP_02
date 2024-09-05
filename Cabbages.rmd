@@ -41,7 +41,7 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
   
-when we look at the boxplot the bottom quartile for c52 box is higher third quartile for the c39 box.Those two boxes a disjointed.
+when we look at the boxplot the bottom quartile for c52 box is higher third quartile for the c39 box.Those two boxes a disjointed. 
 
 ### Numerical Descriptive Results
 
@@ -66,7 +66,7 @@ The likely-hood of getting this result is the number .ooooooo340.c52 has more vi
 
 
 # Discussion and Conclusion
-I graphed the the differences between c39 and c52 and put them in box plots. Seeing that c39 is lower than c52 . then, i looked at the numerical results between the quarters of my first box plot and saw that c52 was higher than c39. i ran statistical test and found the probability is low . c52 has more vitc that c39.
+I graphed the the differences between c39 and c52 and put them in box plots. Seeing that c39 is lower than c52 . then, i looked at the numerical results between the quarters of my first box plot and saw that c52 was higher than c39. i ran statistical test and found the probability is low . c52 has more vitc that c39. 
 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
